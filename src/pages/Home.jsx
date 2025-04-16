@@ -70,7 +70,7 @@ function Home({ currency }) {
       </div>
       
       {/* Constrain table width and center */}
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-full mx-auto">
         <div className="overflow-x-auto bg-white/5 rounded-lg shadow-lg border border-white/10">
           {loading && <LoadingSpinner />}
           {error && <div className="text-center py-16 text-red-400">{error}</div>}
