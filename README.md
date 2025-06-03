@@ -4,6 +4,10 @@ Your Gateway to Cryptocurrency Insights.
 
 CryptoTrackr is a web application built with React, Vite, and Tailwind CSS that allows users to track cryptocurrency prices, view market data, and explore exchange information. It utilizes the CoinGecko API for real-time data.
 
+## 🚀 Live Demo
+
+Check out the live project here: [CryptoTrackrr](https://cryptotrackrr.netlify.app/)
+
 ## Features
 
 *   **Real-time Tracking**: View live price updates for the top 100 cryptocurrencies.
