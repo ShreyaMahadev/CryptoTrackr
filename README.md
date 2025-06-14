@@ -6,7 +6,7 @@ CryptoTrackr is a web application built with React, Vite, and Tailwind CSS that 
 
 ## 🚀 Live Demo
 
-Check out the live project here: [CryptoTrackrr](https://cryptotrackrr.netlify.app/)
+Check out the live project here: [CryptoTrackr](https://cryptotrackrr.netlify.app/)
 
 ## Features
 
